@@ -64,6 +64,5 @@ go install github.com/retlehs/quien@latest
 ### Homebrew
 
 ```bash
-brew tap retlehs/tap
-brew install retlehs/tap/quien
+brew install quien
 ```

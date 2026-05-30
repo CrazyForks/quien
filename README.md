@@ -15,8 +15,7 @@ Try it without installing: `ssh quien.sh`
 **Homebrew**
 
 ```
-brew tap retlehs/tap
-brew install retlehs/tap/quien
+brew install quien
 ```
 
 **Ubuntu / Debian**
